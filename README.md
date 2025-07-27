@@ -5,7 +5,7 @@ This Power BI dashboard is a professional project designed to help auditors, ana
 
 The dashboard focuses on **Total Risk Score**, incorporating:
 - Internal Control Weakness
-- Audit Risk (High/Moderate/Low)
+- Audit Risk (High/Low)
 - Related Party Transactions
 
 It is built to align with **audit analytics and data assurance principles** and is fully interactive for dynamic filtering by company and year.
