@@ -127,6 +127,13 @@ It is especially useful for internal auditors, digital assurance teams, and risk
 
 ---
 
+## 👤 Author
+**ASHIK THOMAS**  
+
+ACCA Part Qualified,
+
+---
+
 ## 📜 License
 
 This project is for educational and demonstration purposes only.
