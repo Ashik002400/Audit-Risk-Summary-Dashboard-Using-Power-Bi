@@ -53,6 +53,48 @@ It is built to align with **audit analytics and data assurance principles** and 
 
 ---
 
+## 🛠 Tools Used
+
+- **Power BI Desktop**
+- **Microsoft Excel (Data Prep)**
+- **GitHub for documentation**
+
+---
+
+
+## 📜 ISA Standards Application
+- Embedded audit logic consistent with:
+  - **ISA 315** – Identifying and assessing risks of material misstatement.
+  - **ISA 330** – Designing audit responses to assessed risks.
+  - **ISA 240** – Considering fraud risks in audit procedures.
+ 
+  ---
+  ## 🧠 Skills Demonstrated
+
+This project showcases a blend of audit expertise and technical proficiency, reflecting the competencies expected in modern audit analytics roles:
+
+### 📊 Power BI & Data Visualization
+- Designed an interactive dashboard with slicers, KPIs, and multi-year risk comparisons.
+- Used cards, bar charts, and filters to present audit risk data in a clear, executive-ready format.
+
+### 📂 Data Modeling & Transformation
+- Imported and structured audit risk data for analysis across multiple entities and years.
+- Demonstrated understanding of entity-level risk aggregation.
+
+### 🧮 Audit Analytics & Professional Judgment
+- Translated ISA-based audit risks into measurable indicators and visual summaries.
+- Prioritized high-risk areas using visual cues aligned with risk-based auditing principles.
+
+---
+
+## 📷 Screenshots of the Power BI Dashboard
+- Page 01 - Executive Summary:
+- ![Executive Summary](images/Page_01_Executive_Summary.png)
+- Page 02 Risk Breakdown:
+- ![Risk Breakdown](images/Page_02_Risk_Breakdown.png)
+
+
+
 ## 🎯 Key Insights & Findings
 
 - **Rising Risk Trend**: Internal Control Weakness and Total Risk Scores have shown a consistent upward trend from 2021 to 2023.
@@ -74,13 +116,6 @@ It is especially useful for internal auditors, digital assurance teams, and risk
 
 ---
 
-## 🛠 Tools Used
-
-- **Power BI Desktop**
-- **Microsoft Excel (Data Prep)**
-- **GitHub for documentation**
-
----
 
 
 ## 📌 How to Use
