@@ -23,6 +23,8 @@ It is built to align with **audit analytics and data assurance principles** and 
 
 - **Visualizations:**
   - **Bar Chart** showing Total Risk Score by Company.
+  - **Dual-Axis Line Chart**: Shows the opposing trends of a decreasing total company count versus an increasing high-risk company count over the years.
+  - **Donut Charts**: Display the proportional breakdown of high-risk vs. low-risk companies and the composition of the high-risk group.
   - **Year and Company Filter Slicers** for interactive analysis.
 
 ![Executive Summary](Page 01 Executive Summary.png)
@@ -31,15 +33,14 @@ It is built to align with **audit analytics and data assurance principles** and 
 
 ### 2️⃣ Risk Breakdown Page
 
-- **Line Chart**: Trends in
-  - Internal Control Weakness (ICW)
-  - Audit Risk
-  - Related Party Transactions
-
-- **Total Risk Score Over Time**: Shows increasing risk score trend across 2021–2023.
-
-- **Treemap**: Highlights companies with high revenue associated with higher audit risk factors.
-
+- **Key Visuals**:
+    - **Stacked Area Chart**: Deconstructs the Total Risk Score to show the trend and contribution of each risk component (Internal Control Weakness, Related Party Transactions) over time.
+    - **Donut Chart**: Identifies the Top 10 companies contributing to Internal Control Weakness, highlighting significant concentrations of risk.
+    - **Line Chart**: Clearly illustrates the sharp increase in the Average of Total Risk Score from 2021 to 2023.
+    - **Treemap**: Visualizes high-revenue companies to analyze potential correlations with their risk status.
+  
+ - **Core Insight:**
+The dashboard clearly identifies that Internal Control Weakness is the primary driver of the increasing overall audit risk, providing a clear area for strategic focus.
 ![Risk Breakdown](Page 02 Risk Breakdown.png)
 
 ---
